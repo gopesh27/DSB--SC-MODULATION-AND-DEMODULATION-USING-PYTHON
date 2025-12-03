@@ -29,7 +29,12 @@ __Procedure__:
 7) Low-pass filter to recover message
 
    __Tabulation__:
+![WhatsApp Image 2025-12-03 at 16 49 04_f8cfcde3](https://github.com/user-attachments/assets/74ad1ef4-76e0-4e1e-abb0-ec7f952debd1)
 
    __Output__:
+![WhatsApp Image 2025-12-03 at 16 48 18_b466a8eb](https://github.com/user-attachments/assets/2cfa2f6c-3573-4bc4-90ea-31bf2d02892e)
 
+   
    __Result__:
+
+   The DSB-SC Modulation was successfully implemented using Python.
